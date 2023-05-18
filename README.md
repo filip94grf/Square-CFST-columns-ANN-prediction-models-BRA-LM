@@ -7,4 +7,4 @@ This repository contains user-friendly and practical models (Bayesian regulariza
 
 !!!To run K-fold cross-validation technique you must specify number K!!!
 
-Cite the article: Đorđević, F. and Kostić, S.M. (2023), “Practical ANN Prediction Models for The Axial Capacity of Square CFST Columns”, Journal of Big Data, Springer.
+Cite the article: Đorđević, F., Kostić, S.M. Practical ANN prediction models for the axial capacity of square CFST columns. J Big Data 10, 67 (2023). https://doi.org/10.1186/s40537-023-00739-y
